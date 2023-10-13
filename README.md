@@ -17,4 +17,10 @@
 * A
   Asses:
 
+
+
+
+
+
+
 [Inform]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Inform
