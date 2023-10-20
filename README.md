@@ -2,26 +2,26 @@
 
 ## Iperka
 
-* I <br>
+* I 
   [Inform]
   
 
-* P <br>
+* P 
  [Plan]
 
 
-* E <br>
+* E 
   [Decide]
 
   
-* R <br>
+* R 
   [Realise]
 
   
-* K <br>
+* K 
   [Control]
   
-* A <br>
+* A 
   [Asses]
 
 
