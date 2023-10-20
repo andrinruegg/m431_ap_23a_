@@ -1,7 +1,5 @@
 # m431_ap_23a_
 
-## Iperka
-
 ### Project Overview:
 
 Creator: This project is a one-person effort, created entirely by Andrin Rüegg (me).
@@ -26,6 +24,9 @@ The challenge for players is to navigate through the foggy and quiet forest and 
 ### Project Goal:
 
 My main goal for this project is to give fear and excitement to the players. I want them to have an enjoyable and horrible (of corse in the creepy way) experience as they play.
+
+
+## Iperka
 
 
 * I 
