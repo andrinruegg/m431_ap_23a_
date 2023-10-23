@@ -25,7 +25,12 @@ Have made one or more 3d assets with blender. <br>
 ________________________________________________________________________________________________________________________________________________________________________________
 
 
-To complete all these goals I needed to inform myself here are the sources which I needed to progress. <br>
-Blender tutorial Series by "Blender Guru" [Link to part one of the Series](https://youtu.be/nIoXOplUvAw?si=aUiZKp7VDpxDJJ-O)
+#### To complete all these goals I needed to inform myself here are the sources which I needed to progress. <br> <br>
+Blender tutorial Series by "Blender Guru" [Link to part one of the Series](https://youtu.be/nIoXOplUvAw?si=aUiZKp7VDpxDJJ-O) <br>
+Tutorial how to make an open world map with UE5 by "Gorka Games" [Make An Open World Map in 20 Mins | Unreal Engine 5](https://youtu.be/RCENB-s5POA?si=lD6YKxk2IcQgBU5L) <br>
+Tutorial to make a enemy behaviour by "Gorka Games" [The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5](https://youtu.be/xm-7m5Fw1HU?si=uIt0iRThM7W9DPxu) <br>
+Also one by "Gorka Games" with behaviour trees which I didnt use in my project [How to Make a Simple Behavior Tree in Unreal Engine 5 - Advanced AI](https://youtu.be/QJuaB2V79mU?si=UDw76dK5SVlZsKY0)
+
+
 
 
