@@ -29,7 +29,26 @@ ________________________________________________________________________________
 Blender tutorial Series by "Blender Guru" [Link to part one of the Series](https://youtu.be/nIoXOplUvAw?si=aUiZKp7VDpxDJJ-O) <br>
 Tutorial how to make an open world map with UE5 by "Gorka Games" [Make An Open World Map in 20 Mins | Unreal Engine 5](https://youtu.be/RCENB-s5POA?si=lD6YKxk2IcQgBU5L) <br>
 Tutorial to make a enemy behaviour by "Gorka Games" [The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5](https://youtu.be/xm-7m5Fw1HU?si=uIt0iRThM7W9DPxu) <br>
-Also one by "Gorka Games" with behaviour trees which I didnt use in my project [How to Make a Simple Behavior Tree in Unreal Engine 5 - Advanced AI](https://youtu.be/QJuaB2V79mU?si=UDw76dK5SVlZsKY0)
+Also one by "Gorka Games" with behaviour trees which I didnt use in my project [How to Make a Simple Behavior Tree in Unreal Engine 5 - Advanced AI](https://youtu.be/QJuaB2V79mU?si=UDw76dK5SVlZsKY0) <br>
+
+
+Prior Knowledge: I already had prior experience with these software tools which was a huge advantage. 
+
+Refresher Videos: Watching tutorial or refresher videos was an excellent way to quickly refresh my old knowledge. Most of these videos helped me getting my old knowledge back and I didnt had to copy them 1 to 1.
+
+Troubleshooting: Videos often covered common issues (Gorka Games did this realy well) and their solutions. They can help you troubleshoot problems more efficiently as most of the time they already know the solution to orrect the error.
+
+Community Knowledge: Blender and Unreal Engine have active communities, and video tutorials are often created by experienced users who share their insights and tips. There is also a wiki for blender and unreal engine 5: <br> <br>
+[Unreal Engine 5 Wiki](https://unrealcommunity.wiki/) <br>
+[Blender Wiki](https://wiki.blender.org/wiki/Main_Page) <br>
+
+Practice and Application: After watching these videos, I pratcised some of the steps explained in the video and I could improve by alot.
+
+
+
+
+
+
 
 
 
