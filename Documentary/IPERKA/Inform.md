@@ -26,10 +26,25 @@ ________________________________________________________________________________
 
 
 #### To complete all these goals I needed to inform myself here are the sources which I needed to progress. <br> <br>
-Blender tutorial Series by "Blender Guru" [Link to part one of the Series](https://youtu.be/nIoXOplUvAw?si=aUiZKp7VDpxDJJ-O) <br>
-Tutorial how to make an open world map with UE5 by "Gorka Games" [Make An Open World Map in 20 Mins | Unreal Engine 5](https://youtu.be/RCENB-s5POA?si=lD6YKxk2IcQgBU5L) <br>
-Tutorial to make a enemy behaviour by "Gorka Games" [The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5](https://youtu.be/xm-7m5Fw1HU?si=uIt0iRThM7W9DPxu) <br>
-Also one by "Gorka Games" with behaviour trees which I didnt use in my project [How to Make a Simple Behavior Tree in Unreal Engine 5 - Advanced AI](https://youtu.be/QJuaB2V79mU?si=UDw76dK5SVlZsKY0) <br>
+_______________________
+Blender tutorial Series by "Blender Guru" [Link to part one of the Series](https://youtu.be/nIoXOplUvAw?si=aUiZKp7VDpxDJJ-O) <br> <br>
+_________________________
+Tutorial how to make an open world map with UE5 by "Gorka Games" [Make An Open World Map in 20 Mins | Unreal Engine 5](https://youtu.be/RCENB-s5POA?si=lD6YKxk2IcQgBU5L) <br> <br>
+_____________________
+Tutorial to make a enemy behaviour by "Gorka Games" [The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5](https://youtu.be/xm-7m5Fw1HU?si=uIt0iRThM7W9DPxu) <br> <br>
+_____________________
+Also one by "Gorka Games" with behaviour trees which I didnt use in my project [How to Make a Simple Behavior Tree in Unreal Engine 5 - Advanced AI](https://youtu.be/QJuaB2V79mU?si=UDw76dK5SVlZsKY0) <br> <br>
+___________________
+Make a Horror enviroment by "Gorka Games" [How to Create a Horror Environment and Atmosphere in Unreal Engine 5 - Using PCG and Landmass](https://youtu.be/xM0Tp8jNVDM?si=UA2Ba3QqPAyG79zL) <br> <br>
+________________________________
+How to make a enemy AI BY "Gorka games" [The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5](https://youtu.be/xm-7m5Fw1HU?si=g_fbj78WCJiIZUZr) <br> <br>
+____________________
+Also one with a Behaviour tree which I didnt need afterwards [How to Make a Simple Behavior Tree in Unreal Engine 5 - Advanced AI](https://youtu.be/QJuaB2V79mU?si=bKaGtWX4P16FWZC4) <br> <br>
+_____________________
+How to get fbx files from blender into ue5 by "Markom 3D [Blender Export FBX with Textures to Unreal Engine 5 or Unity](https://youtu.be/KtPYTaCcCNU?si=PqlV7-pIEet2S62U) <br> <br>
+__________________
+
+
 
 
 Prior Knowledge: I already had prior experience with these software tools which was a huge advantage. 
