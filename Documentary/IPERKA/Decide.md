@@ -16,3 +16,15 @@ When my project partner unexpectedly returned to their academic pursuits, I foun
 <img src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/68436caa-e73f-4f98-acd2-bb5a2752f7d1" width="450" height="250">
 
 
+
+- **What tyoe of game?**
+  Thhere are many different types of games.
+  
+  Those were the once I had in mind: Horror, Jump N Run, Simulator. <br> 
+  ***Why not Jump N Run:** After thinking a closer look at jump n runs it seemed pretty boring to me so I decided to dont take that one. <br> <br>
+  **Why not Simulator:** I love playing simulators where you do something, earn money and then buy stuff do even earn more money, but the thing with that is, its verry hard to make and I dont have time to calculate prices and everything. <br> <br>
+  **Why I chose horror:** Thinking about making a horror game, lots of ideas came in my mind. One of this were making a scary game in a forrest. Myself I enjoy playing horror games because I always need that little feeling of a shiver running down m spine after a jumpscare. <br> <br>
+
+  
+
+
