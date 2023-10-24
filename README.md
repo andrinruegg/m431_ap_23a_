@@ -59,7 +59,7 @@ My main goal for this project is to give fear and excitement to the players. I w
 
 
 [Inform.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Inform.md
-[Plan]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Plan.md
+[Plan.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Plan.md
 [Decide]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Decide
 [Realise]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Realise
 [Control]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Control
