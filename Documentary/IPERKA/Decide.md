@@ -9,3 +9,4 @@ I originally had different project plans, but my colleague went back to the gymn
 
 This change led me to look out for new project ideas and forced me to be adaptable and creative. While it felt challenging, it eventually came up with a good project idea. As I worked on it.
 There was only one big idea in my mind afterwards, so the decision was pretty easy for me as I had no other plans.
+![ue-logo-1400x788-1400x788-8f185e1e3635](https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/80575566-7684-425f-919d-e140a8df7ec0)
