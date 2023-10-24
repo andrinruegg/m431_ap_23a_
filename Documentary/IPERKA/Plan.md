@@ -42,4 +42,4 @@ Here is a better explanation:
 
 - **22.10 - Upload and Documentation (200 min):** The final day is dedicated to uploading the game and completing comprehensive documentation. This documentation ensures that the project is well-documented for future reference and maintenance.
 
-While it's common for projects to experience deviations from the initial plan, this structured approach allowed for adaptability and ensured the project's quality and integrity were maintained throughout the development process.
+
