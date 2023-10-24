@@ -1,3 +1,6 @@
+# Planing <br> <br>
+
+This is an example how I planned what to do. (12.10-22.10)
 --------------------------------------------------------------------------------------------------------------------------
 | Date   | Time in min | Exercise         | What has to be done                                                          |
 | ------ | ----------- | ---------------  | ---------------------------------------------------------------------------- |
@@ -13,4 +16,30 @@
 | 21.10  |           10| Review           | Review: am I happy about the result? Do I want to add something?             |
 | 22.10  |          200| Upload           | Upload the game and finish the documentation.                                |
 --------------------------------------------------------------------------------------------------------------------------
-Thats a small Review, how i planned what to do. I made this tables on google docs.
+___________________________
+
+Here is a better explanation:
+
+- **12.10 - Documentation (240 min):** I had to restart documentating. Evem tho I have already documentated oce. The reason: I ahd no space left on my computer and accidently deleted all my files. This is one of the reasons why it took so long but atleast I still knew what to documentate
+
+- **13.10 - Programming (120 min):** On this day, the goal was to enhance IPERKA by potentially adding a playable character and expanding the game's capabilities.
+
+- **14.10 - Programming and Documentation (50 min):** A balance between programming and documentation, including the creation of a new in-game entity and thorough documentation.
+
+- **15.10 - Blender (20 min):** In this short slot, the task was to design a world border in Blender, preparing it for integration into the game environment.
+
+- **16.10 - Programming (30 min):** Focus on creating a user interface (UI) and introducing crucial game mechanics like a health and stamina system.
+
+- **17.10 - Programming (60 min):** A dedicated hour for adding collision features to in-game elements that require them.
+
+- **18.10 - Programming (30 min):** A continuation of programming work, with the aim of expanding the game world or adding new in-game structures.
+
+- **19.10 - Testing (60 min):** A crucial quality assurance phase involving testing, debugging, and documentation of any issues that arose during this process.
+
+- **20.10 - Debugging (30 min):** Addressing and documenting solutions for the identified issues, marking the debugging phase's success.
+
+- **21.10 - Review (10 min):** Taking time to assess the project's progress and personal satisfaction, evaluating whether any additional elements or features should be added.
+
+- **22.10 - Upload and Documentation (200 min):** The final day is dedicated to uploading the game and completing comprehensive documentation. This documentation ensures that the project is well-documented for future reference and maintenance.
+
+While it's common for projects to experience deviations from the initial plan, this structured approach allowed for adaptability and ensured the project's quality and integrity were maintained throughout the development process.
