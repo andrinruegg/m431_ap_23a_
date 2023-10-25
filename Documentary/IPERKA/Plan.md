@@ -41,4 +41,11 @@ Here is a better explanation:
 - **26.10 - Review (10 min):** On this day, the primary goal was to think about the programm. Am I satsifyied?
   
 - **27/28.10 - Upload and Documentation (200 min):** I used the final days to finish the documentation and try to upload the game.
+  _______________
 
+Challenges in My Planning Process:
+
+At the begining, I set myself too many daily goals, making it impossible to accomplish them all.
+I lost all my planing documents after trying to get some computer storage. <br>
+
+However, I approached this problems the right way, with just restarting  and stop crying around. I took a long time to reflect, but in the end, I adopted a more effective strategy. I began setting smaller daily tasks, each taking 30 minutes to an hour to complete.
