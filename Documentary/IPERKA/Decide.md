@@ -17,7 +17,7 @@ When my project partner unexpectedly returned to their academic pursuits, I foun
 
 
 
-- **What tyoe of game?**
+- **What type of game?**
   Thhere are many different types of games.
   
   Those were the once I had in mind: Horror, Jump N Run, Simulator. <br> 
