@@ -49,3 +49,6 @@ At the begining, I set myself too many daily goals, making it impossible to acco
 I lost all my planing documents after trying to get some computer storage. <br>
 
 However, I approached this problems the right way, with just restarting  and stop crying around. I took a long time to reflect, but in the end, I adopted a more effective strategy. I began setting smaller daily tasks, each taking 30 minutes to an hour to complete.
+__________
+
+If you look at the table above, you'll notice that there weren't many days available. This is why I worked a bit longer at some days. The reason I got a late start was due to the loss of my documents, which left me feeling demotivated. However, I realized that I dont have much time left and I want to have a good grade. With that in mind, I pushed myself to make the most of the time I had.
