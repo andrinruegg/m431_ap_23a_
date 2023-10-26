@@ -18,13 +18,21 @@ When my project partner unexpectedly returned to their academic pursuits, I foun
 
 
 - **What type of game?**
-  Thhere are many different types of games.
+  There are many different types of games.
   
   Those were the once I had in mind: Horror, Jump N Run, Simulator. <br> 
   ***Why not Jump N Run:** After thinking a closer look at jump n runs it seemed pretty boring to me so I decided to dont take that one. <br> <br>
   **Why not Simulator:** I love playing simulators where you do something, earn money and then buy stuff do even earn more money, but the thing with that is, its verry hard to make and I dont have time to calculate prices and everything. <br> <br>
   **Why I chose horror:** Thinking about making a horror game, lots of ideas came in my mind. One of this were making a scary game in a forrest. Myself I enjoy playing horror games because I always need that little feeling of a shiver running down m spine after a jumpscare. <br> <br>
 
+  **Where is the location?**
+  - Forest, Murder House, Backrooms.
+  <br>
   
-
+**Why not in the backrooms?**
+I love the backrooms but there are just too many games about it and also its very hard to build because there are thousands of lvls and many items and entitys. <br> <br>
+**Why not in a house of a murder?**
+A house of the murder would be a very cool idea but there are many similar games where you have to escape the house of a killer for example granny. In this games you also need to add many details in the house and it would be a huge effort to import that many small things. <br> <br>
+**Why I chose the forest.**
+I love the nature and what isn't more scarry then beiing alone in a forest at night? I have many flashbacks when I was alone in a forest and everytime I was scared so much. Also in a dark forest you cant see alot so ut was a cool idea of mine to add a flishlight what makes it even spookier as youll only have a small field of view. <br> <br>
 
