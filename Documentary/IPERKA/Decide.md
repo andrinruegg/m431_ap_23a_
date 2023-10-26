@@ -1,12 +1,15 @@
 # Decide 
 
+The creators of my game are just me, myself and I so I never had problems while deciding. I could decide everything by myself and hadnt to accept anyones other wish.
+I managed my decisions in a pretty easy way. Most of the time I had multiple ideas in my mind, then i researched and after that I often had an easy decision.
+
 Decision examples:
 
 
-- **Game or Website?**
+- **Game or Website?** (Decision made in the first two weeks)
   The decision between embarking on the creation of a website for my talented aunt, who loves decorating for others and sells her decoration online, or making my own game with Unreal Engine 5 presented was a diffciult decision. I found myself at a crossroads, as I had a certain degree of familiarity with both domains. After careful consideration, I opted to pursue game development. This choice was rooted in my existing experience in this realm, which promised a smoother and more enjoyable journey. The prospect of constructing a professional website was accompanied by the realization that it would demand a considerable investment in time and effort. Moreover, my aunt had previously sought the services of a web developer. The allure of crafting an immersive game experience and my pre-existing skill set made the decision evident.
 
-- **UE5 or Unity?**
+- **UE5 or Unity?** (Decision made in the second week)
   The choice between Unreal Engine 5 (UE5) and Unity was a matter of ease and comfort for me. I possessed an extensive background in working with UE5, making it the logical and effortless choice for my current endeavor.
 
 When my project partner unexpectedly returned to their academic pursuits, I found myself navigating the path of a solo endeavor. This change in circumstance served as a catalyst for exploration, pushing me to seek out fresh and innovative project ideas. It demanded adaptability and a touch of creative ingenuity to adapt to this new direction. Although the initial transition presented its share of challenges, I eventually arrived at a captivating project concept. As I poured my energy into its development, it became increasingly clear that this was the path I was meant to follow.
