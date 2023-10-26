@@ -1,6 +1,6 @@
 # Planing <br> <br>
 
-This is an example how I planned what to do. (12.10-22.10)
+This is an example how I planned and what what to do. (12.10-22.10)
 --------------------------------------------------------------------------------------------------------------------------
 | Date   | Time in min | Exercise         | What has to be done                                                          |
 | ------ | ----------- | ---------------  | ---------------------------------------------------------------------------- |
@@ -61,4 +61,7 @@ ____
 
 **How I followed the plan:**
 
-At the begining, following the plan was pretty easy for me, as there were easy task at the begining and I had much time left. But then I got slower and slower and I lost my motivation. I later then realized that I forgot to follow my plan fully. 
+At the begining, following the plan was pretty easy for me, as there were easy task at the begining and I had much time left. But then I got slower and slower and I lost my motivation. I later then realized that I forgot to follow my plan fully. Also I let some steps out, if they took me to long, werent very important or I just wasnt able to do them.
+
+____
+
