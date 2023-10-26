@@ -14,13 +14,14 @@ Decision examples:
 
 When my project partner unexpectedly returned to their academic pursuits, I found myself navigating the path of a solo endeavor. This change in circumstance served as a catalyst for exploration, pushing me to seek out fresh and innovative project ideas. It demanded adaptability and a touch of creative ingenuity to adapt to this new direction. Although the initial transition presented its share of challenges, I eventually arrived at a captivating project concept. As I poured my energy into its development, it became increasingly clear that this was the path I was meant to follow.
 
-<img src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/80575566-7684-425f-919d-e140a8df7ec0" width="450" height="250">
+<img src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/109d4ed8-b045-48ea-a630-2b41a70eeb18" width="450" height="250">
 
-<img src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/68436caa-e73f-4f98-acd2-bb5a2752f7d1" width="450" height="250">
-
+<img src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/eb3533e5-6c17-4f3b-aaaf-bf2017878507"  width="450" height="250">
+<br> 
 
 
 - **What type of game?**
+
   There are many different types of games.
   
   Those were the once I had in mind: Horror, Jump N Run, Simulator. <br> 
