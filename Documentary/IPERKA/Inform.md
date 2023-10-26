@@ -58,10 +58,40 @@ Community Knowledge: Blender and Unreal Engine have active communities, and vide
 [Blender Wiki](https://wiki.blender.org/wiki/Main_Page) <br>
 
 Practice and Application: After watching these videos, I pratcised some of the steps explained in the video and I could improve by alot.
+___
 
+# Tools I used
 
+**Landscape Tool:**
 
+What it does: The Landscape tool in UE5 allows you to create and sculpt large, open, and natural terrains for your game environments. You can generate realistic landscapes with features like mountains, valleys, and bodies of water. For things like water you need the addons tool were you download things like water.
+Key Features: Terrain sculpting, material painting, and foliage placement.
+The Landscape tool also has other small tools like: sculping erasing, flatening and much more.
 
+**Selection Tool:**
+
+What it does: The Selection tool is a fundamental tool for selecting objects. It's used for tasks such as moving, scaling, and rotating selected objects.
+Key Features: Selecting, transforming, and modifying objects.
+
+**Foliage Tool:**
+
+What it does: The Foliage tool enables you to populate your landscapes and scenes with vegetation, such as trees, bushes, and grass. It's essential for creating lush and natural environments. You can choose your meshes and foliages from the content browser and pull them in. After that select thh once you want o paint and then you just have to paint all over the map with a brush.
+Key Features: Placing, adjusting density, and optimizing the rendering of foliage.
+
+**Mesh Paint Tool:**
+
+What it does: The Mesh Paint tool is used for painting static mesh actors onto your level. It's often used for detailing and populating your game world with various objects like rocks, crates, or other props. It workes similar like the foliage tool.
+Key Features: Painting mesh assets onto surfaces, adjusting density, and controlling randomization.
+
+**Animation Tool:**
+
+What it does: Unreal Engine offers a huge set of animation tools for creating, editing, and controlling character or object animations. This can include skeletal animations for characters, object animations, and more.
+Key Features: Rigging, keyframe animation, blend spaces, and animation blueprints for character and object animation.
+
+**Asset Editing and Material/Texture Tool:**
+
+What it does: Unreal Engine provides a wide array of tools for editing assets, materials, and textures. These tools allow you to create, modify, and fine-tune 3D models, textures, and materials to achieve the desired look and feel for your game.
+Key Features: Material Editor, Texture Painting, UV Mapping, and 3D modeling tools for asset creation and modification.
 
 
 
