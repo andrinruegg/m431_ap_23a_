@@ -4,7 +4,9 @@
 
 # Who am I? 
 
-Hello I am Andrin, a 15 year old teenager that lives in switzerland. The reason I made this project is because I go to a school named TBZ, were we had to do one project. I hope you enjoy my Git reprository!
+
+Hello I am Andrin, a 15 year old teenager that lives in switzerland. The reason I made this project is because I go to a school named TBZ, were we had to do one project. I hope you will enjoy reading my Git repo!
+___
 
 ### Project Overview:
 
