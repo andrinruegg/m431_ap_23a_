@@ -2,6 +2,9 @@
 
 ![ue-logo-1400x788-1400x788-8f185e1e3635](https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/f69a0be1-5edf-40b5-9791-990315cc1c9b)
 
+# Who am I? 
+
+Hello I am Andrin, a 15 year old teenager that lives in switzerland. The reason I made this project is because I go to a school named TBZ, were we had to do one project. I hope you enjoy my Git reprository!
 
 ### Project Overview:
 
