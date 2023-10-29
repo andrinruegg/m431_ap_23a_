@@ -7,7 +7,13 @@ Here are a few Pictures of my project:
 
 _______________
 # How I approached the tasks:
-When you look at the planning: 
+When you look at the planning: [Plan.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Plan.md
+You can see the multiple tasks I set myself. Before starting out, I always informed myself about the things I do. An example is how I should create a map. I looked up for tutorials and then I just did my tasks. If i was happy with the completed task, I went to the next one. After every task I also checked if the task was done right.
+
+# Setup Tasks:
+At the beginning, I had to download multiple apps: Epic Games and Blender. Then, on Epic Games, I had to download various versions of Unreal Engine. Initially, I tried downloading the newest version (5.3). Unfortunately, when I attempted to open the app, it consistently crashed. The reason for this was an old driver. I went to the official Intel website, downloaded the app, and obtained the latest version for my CPU (Intel Core i7, 11th gen). Before arriving at that solution, I acquired Unreal Engine 4. However, I lacked experience with it, and it also had outdated tools, so I tried finding another way to handle that problem. With the necessary apps installed, I began educating myself. I watched simple tutorials for UE5 and Blender and started experimenting on my own. Before commencing map-making (one of my first tasks), I tested features like landscaping and various cool add-ons such as the easy building system. I created a small island for experimentation. The map-making process took longer than expected because I thoroughly enjoyed it. I acquired numerous textures and 3D models from the internet and aimed to create a realistic forest. Additionally, I implemented sounds. now form that text so that it would look good on an git repository.
+
+By the way, I also made a small tutorial Video how to make an Horror Enviroment 😄:
 
 
 The knowledge I gathered was drawn from diverse sources including tutorials, community resources, and my own prior experience, significantly aiding the learning process. Utilizing specific tools within Unreal Engine such as the Landscape Tool, Selection Tool, Foliage Tool, Mesh Paint Tool, Animation Tool, and Asset Editing proved instrumental in realizing various aspects of the project.
