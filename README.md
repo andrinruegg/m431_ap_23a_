@@ -9,6 +9,7 @@
 
 Hello I am Andrin, a 15 year old teenager that lives in switzerland. The reason I made this project is because I go to a school named TBZ, were we had to do one project. I hope you will enjoy reading my Git repo!
 ___
+## Read me
 
 ### Project Overview:
 
@@ -35,6 +36,8 @@ The challenge for players is to navigate through the foggy and quiet forest and 
 
 My main goal for this project is to give fear and excitement to the players. I want them to have an enjoyable and horrible (of corse in the creepy way) experience as they play.
 
+### Is the game avaible to downlaod?
+No they game is not avaible to download as I dont want to upload.
 
 ## Iperka
 
