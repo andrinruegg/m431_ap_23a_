@@ -20,9 +20,6 @@ Before commencing map-making (one of my first tasks), I tested features like lan
 I created a small island for experimentation. <br>
 The map-making process took longer than expected because I thoroughly enjoyed it. <br>
 I acquired numerous textures and 3D models from the internet and aimed to create a realistic forest. Additionally, I implemented sounds.
-
-## By the way, I also made a small tutorial Video how to make an Horror Enviroment 😄: https://youtu.be/7xzplbQVI2Y <br> 
-This is a shortened video down to 7 minutes. It took a few hours to edit and create so please watch it! (Also dont forget to subscribe to my channel for more!)
 ___
 
 **The next task was creating an entity:** I tried many things. I went into Blender and attempted to create some scary characters for my game, but I just wasn't able to do it. The problem arose because I created characters and implemented them in the game, but they didn't have a skeleton, so animations didn't work on them. I tried everything. Eventually, I gave up on that idea. Then I came up with something new. UE5 has a simple character for everyone who starts out, and I used that playable character in the game. As it already had a skeleton, it was easy. I created new textures and made the entity red and not easily visible in the dark. 
