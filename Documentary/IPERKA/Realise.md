@@ -95,3 +95,10 @@ In essence, Blueprints in Unreal Engine are tools that simplify game development
 ## Testworld
 Throughout the project, I also had a testing world. The funny thing is that the testing world looks better and has more functions than my own project, as I spent more time experimenting around. Here is a short clip of it: [My Testworld](https://youtu.be/P7YN6_LdMsM)
 In this test world, I gained experience with AI, tools, building, and more. If you're wondering about the quality, it's because I ran this test world on my computer at home, where it works much better.
+
+## Repository 
+Creating the Git repository was the hardest task for me, not only because I am bad at documenting but also because I had no experience with Git and only a few weeks left when I started.
+
+The first thing I did was creating a markdown file and putting in the simple IPERKA, then I created a markdown file for every IPERKA itself and linked them to the start page. I saw how some people designed the initial site and thought it looked cool, so I used the UE5 icon for my project's logo and wrote a few small things about myself. Then, I started following the plan; I began with the "inform" part. I easily knew what to write, but after getting into a flow, I always suddenly forgot what else I could write for the IPERKA parts, which is why the files aren't that big. "Inform" was the easiest part. After that, I moved on to "plan." I made an example table, but the thing is that in these weeks, I did the most things for my project, and yes, I know it was way too late.
+
+Then, I moved on to the "realize" part. I thought about writing down everything I did and explained a few important things like Blueprints.
