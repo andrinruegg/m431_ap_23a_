@@ -62,7 +62,7 @@ No they game is not avaible to download as I dont want to upload.
   [Control.md]
   
 * A 
-  [Asses.md]
+  [Assess.md] 
 
 
 
@@ -76,5 +76,7 @@ No they game is not avaible to download as I dont want to upload.
 [Decide.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Decide.md
 [Realise.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Realise.md
 [Control.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Control.md
-[Asses.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Asses.md
+[Assess.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Asses.md
+
+*In one of the files there is an eastergg..*
 
