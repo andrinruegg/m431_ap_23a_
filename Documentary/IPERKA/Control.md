@@ -18,11 +18,16 @@ I noticed some trees and small rocks scattered across the map, and then realized
 <img width="562" alt="Screenshot 2023-10-30 093400" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/9048fe9a-c1cc-482f-b76a-e1d27e02061d"> 
 <img width="562" alt="Screenshot 2023-10-30 093417" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/8e4d422a-aaf6-4bcf-b7a2-3e0ccd63b8ec">
 
-- ## Entity Animations:
+- ## Entity Animation:
 In the realization phase, I discussed the peculiar entity animation issue when it followed the player. To solve this, instead of creating a new animation (which would take a lot of effort), I opted to turn the entity into a ghost. Since the entity was already transparent, this seemed like a complete win. I adjusted the entity's height to make it appear as if it were flying, removed the existing animations, and now it quietly floats toward the player, creating an eerie effect.
+
+<img width="1125" alt="Screenshot 2023-10-30 093814" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/59b7bbb8-3d06-48f0-8a65-ce0649014a9b">
+
+Here you see the character T-Posing, thats how I imagine ghost flying around.
 
 - ## First-Person Mode:
 Initially, I changed from third-person to first-person mode by placing a camera in the character's head. However, at the beginning, I faced the problem of limited movement in the up-down direction. I wasn't sure how to resolve this initially, but later I discovered sockets that allow attachment of things. I connected the camera to the head socket, enabling the camera to follow the mouse's direction in all orientations, effectively solving the issue.
+[Here is teh fixed cammera](https://youtu.be/5IvqOMhoc84)
 
 
 
