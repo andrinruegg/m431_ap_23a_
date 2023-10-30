@@ -88,13 +88,17 @@ What it is: An Animation Blueprint controls how a character or object moves and 
 What it does: It defines how different animations blend and play out, governing the movement and appearance of characters or objects in the game.
 In essence, Blueprints in Unreal Engine are tools that simplify game development by allowing designers to create functionality and behaviors without extensive coding. The Animation Blueprint, specifically, focuses on creating and managing animations for characters or objects within the game.
 
-<img width="483" alt="Screenshot 2023-10-30 070920" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/dc879ee3-306e-41a0-9674-1e6583bae7c2">
-<img width="483" alt="Screenshot 2023-10-30 070947" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/4ecf5b0e-0a20-4da6-af4c-75518d8a2f80">
+<img width="241" alt="Screenshot 2023-10-30 070920" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/dc879ee3-306e-41a0-9674-1e6583bae7c2">
+<img width="241" alt="Screenshot 2023-10-30 070947" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/4ecf5b0e-0a20-4da6-af4c-75518d8a2f80">
 
 
 ## Testworld
 Throughout the project, I also had a testing world. The funny thing is that the testing world looks better and has more functions than my own project, as I spent more time experimenting around. Here is a short clip of it: [My Testworld](https://youtu.be/P7YN6_LdMsM)
 In this test world, I gained experience with AI, tools, building, and more. If you're wondering about the quality, it's because I ran this test world on my computer at home, where it works much better.
+![WhatsApp Image 2023-05-24 at 14 54 01_19a7e611](https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/d55683b5-d083-4611-bc57-e0539ca1ecd5)
+
+![WhatsApp Image 2023-05-24 at 14 54 01_433d94d1](https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/805048b6-457a-422c-92ac-44e700c8fd61)
+
 
 ## Repository 
 Creating the Git repository was the hardest task for me, not only because I am bad at documenting but also because I had no experience with Git and only a few weeks left when I started.
