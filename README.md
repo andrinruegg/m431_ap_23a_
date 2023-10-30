@@ -82,3 +82,4 @@ No they game is not avaible to download as I dont want to upload.
 
 *In one of the files there is an eastergg..*
 
+Before hopping in, please check out this small gameplay: [Gameplay](https://youtu.be/QzJG0K9xBcc) <br>
