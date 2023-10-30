@@ -26,6 +26,8 @@ ________________________________________________________________________________
 
 
 #### To complete all these goals I needed to inform myself here are the sources which I needed to progress. <br> <br>
+ChatGPT 3/3.5: Everyone knows this AI, I used it to  inform myself and correct my spelling misstakes.
+___
 _______________________
 Blender tutorial Series by "Blender Guru" [Link to part one of the Series](https://youtu.be/nIoXOplUvAw?si=aUiZKp7VDpxDJJ-O) <br> <br>
 _________________________
