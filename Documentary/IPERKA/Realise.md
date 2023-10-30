@@ -8,7 +8,7 @@ Here are a few Pictures of my project where I want to show off the realistic gra
 
 _______________
 # How I approached the tasks:
-When you look at the planning: [Plan.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Plan.md
+When you look at the planning: [Plan.md]: https://github.com/andrinruegg/m431_ap_23a_/blob/main/Documentary/IPERKA/Plan.md <br>
 You can see the multiple tasks I set myself. Before starting out, I always informed myself about the things I do. An example is how I should create a map. I looked up for tutorials and then I just did my tasks. If i was happy with the completed task, I went to the next one. After every task I also checked if the task was done right.
 
 # Setup Tasks:
@@ -16,11 +16,11 @@ At the beginning, I had to download multiple apps: Epic Games and Blender. Then,
 Unfortunately, when I attempted to open the app, it consistently crashed. The reason for this was an old driver.  <br>
 I went to the official Intel website, downloaded the app, and obtained the latest version for my CPU (Intel Core i7, 11th gen).  <br>
 Before arriving at that solution, I acquired Unreal Engine 4. <br>
-However, I lacked experience with it, and it also had outdated tools, so I tried finding another way to handle that problem. With the necessary apps installed, I began educating myself. I watched simple tutorials for UE5 and Blender and started experimenting on my ow.  <br>
+However, I lacked experience with it, and it also had outdated tools, so I tried finding another way to handle that problem. With the necessary apps installed, I began educating myself. I watched simple tutorials for UE5 and Blender and started experimenting on my own.  <br>
 Before commencing map-making (one of my first tasks), I tested features like landscaping and various cool add-ons such as the easy building system. <br>
 I created a small island for experimentation. <br>
 The map-making process took longer than expected because I thoroughly enjoyed it. <br>
-I acquired numerous textures and 3D models from the internet and aimed to create a realistic forest. Additionally, I implemented sounds. now form that text so that it would look good on an git repository.
+I acquired numerous textures and 3D models from the internet and aimed to create a realistic forest. Additionally, I implemented sounds.
 
 ## By the way, I also made a small tutorial Video how to make an Horror Enviroment 😄: https://youtu.be/7xzplbQVI2Y <br> 
 This is a shortened video down to 7 minutes. It took a few hours to edit and create so please watch it! (Also dont forget to subscribe to my channel for more!)
@@ -37,34 +37,51 @@ My next idea was to add a light to the camera. I attached it to the socket and a
 ___
 
 **In my project I worked with blueprints instead off with codes. But what are blueprints?**
+
 <r> <br> <br>
+**What Are Blueprints?**
+
+Blueprints are visual tools in UE5. They're used to build and define how things work in a game and bascially remove the whole programming part.
+
+**How Do They Work?**
+
+Instead of typing lines of code, you connect colorful shapes and boxes to make things happen in the game(Like you see in the pictures below). It's a bit like drawing lines between different actions or ideas.
+
+**What Can You Do with Blueprints?**
+
+You can create new objects (like characters or items), give them behaviors, and make them do things in the game world.
+They help in setting up events and making decisions, like "When this happens, do that."
+
+**Why Are They Useful?**
+
+They're helpful because you don't need to be a coding expert to make cool stuff happen in your game. They're like a simpler way to tell the game what to do.
 Level Blueprint:
 
 What it is: It's like a big control center for everything happening in a specific level of the game. It manages events that affect the entire level or specific objects in it.
 What it does: It helps control events across the whole level, like actions for different objects, level streaming, and setting up event triggers.
 
 
-Blueprint Class:
+**Blueprint Class:**
 
 What it is: Think of it as a template that adds new functions or behavior to game objects. These are created visually, not through coding, and act like new types of objects.
 What it does: Allows easy addition of new behavior or functionality to objects in the game without having to write code for each new thing.
 
-Data-Only Blueprint:
+**Data-Only Blueprint:**
 
 What it is: It's a type of Blueprint that only allows tweaking existing properties and components without adding new ones.
 What it does: It's useful for making variations of existing objects without changing their core structure.
 
-Blueprint Interface:
+**Blueprint Interface:**
 
 What it is: A collection of function names that can be shared among different Blueprints.
 What it does: Ensures that different Blueprints have certain functions they must have, enabling them to communicate and share data.
 
-Blueprint Macro Library:
+**Blueprint Macro Library:**
 
 What it is: It's like a box containing pre-made sequences of actions that can be easily reused in different Blueprints.
 What it does: Saves time by storing and reusing common sequences of actions or nodes for execution and data transfer.
 
-Animation Blueprint:
+**Animation Blueprint:**
 
 What it is: An Animation Blueprint controls how a character or object moves and animates within the game.
 What it does: It defines how different animations blend and play out, governing the movement and appearance of characters or objects in the game.
