@@ -83,3 +83,7 @@ No they game is not avaible to download as I dont want to upload.
 *In one of the files there is an eastergg..*
 
 Before hopping in, please check out this small gameplay: [Gameplay](https://youtu.be/QzJG0K9xBcc) <br>
+
+## By the way, I also made a small tutorial Video how to make an Horror Enviroment 😄: https://youtu.be/7xzplbQVI2Y <br> 
+This is a shortened video down to 7 minutes. It took a few hours to edit and create so please watch it! (Also dont forget to subscribe to my channel for more!)
+___
