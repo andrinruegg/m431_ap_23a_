@@ -34,7 +34,41 @@ I changed the game mode. Initially, it was a simple third-person mode, but I alt
 
 My next idea was to add a light to the camera. I attached it to the socket and adjusted the strength of the light and the field where it could look. I also changed the camera's field of view to 110° to make the first-person mode look scarier.
 
-The knowledge I gathered was drawn from diverse sources including tutorials, community resources, and my own prior experience, significantly aiding the learning process. Utilizing specific tools within Unreal Engine such as the Landscape Tool, Selection Tool, Foliage Tool, Mesh Paint Tool, Animation Tool, and Asset Editing proved instrumental in realizing various aspects of the project.
+___
 
-In my project I worked with blueprints instead off with codes. But what are blueprints?
+**In my project I worked with blueprints instead off with codes. But what are blueprints?**
+<r> <br> <br>
+Level Blueprint:
 
+What it is: It's like a big control center for everything happening in a specific level of the game. It manages events that affect the entire level or specific objects in it.
+What it does: It helps control events across the whole level, like actions for different objects, level streaming, and setting up event triggers.
+
+
+Blueprint Class:
+
+What it is: Think of it as a template that adds new functions or behavior to game objects. These are created visually, not through coding, and act like new types of objects.
+What it does: Allows easy addition of new behavior or functionality to objects in the game without having to write code for each new thing.
+
+Data-Only Blueprint:
+
+What it is: It's a type of Blueprint that only allows tweaking existing properties and components without adding new ones.
+What it does: It's useful for making variations of existing objects without changing their core structure.
+
+Blueprint Interface:
+
+What it is: A collection of function names that can be shared among different Blueprints.
+What it does: Ensures that different Blueprints have certain functions they must have, enabling them to communicate and share data.
+
+Blueprint Macro Library:
+
+What it is: It's like a box containing pre-made sequences of actions that can be easily reused in different Blueprints.
+What it does: Saves time by storing and reusing common sequences of actions or nodes for execution and data transfer.
+
+Animation Blueprint:
+
+What it is: An Animation Blueprint controls how a character or object moves and animates within the game.
+What it does: It defines how different animations blend and play out, governing the movement and appearance of characters or objects in the game.
+In essence, Blueprints in Unreal Engine are tools that simplify game development by allowing designers to create functionality and behaviors without extensive coding. The Animation Blueprint, specifically, focuses on creating and managing animations for characters or objects within the game.
+
+<img width="483" alt="Screenshot 2023-10-30 070920" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/dc879ee3-306e-41a0-9674-1e6583bae7c2">
+<img width="483" alt="Screenshot 2023-10-30 070947" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/4ecf5b0e-0a20-4da6-af4c-75518d8a2f80">
