@@ -42,7 +42,7 @@ ___
 <r> <br> <br>
 **What Are Blueprints?**
 
-Blueprints are visual tools in UE5. They're used to build and define how things work in a game and bascially remove the whole programming part.
+Blueprints are tools in UE5. They're used to build and define how things work in a game and bascially remove the whole programming part.
 
 **How Do They Work?**
 
@@ -56,7 +56,8 @@ They help in setting up events and making decisions, like "When this happens, do
 **Why Are They Useful?**
 
 They're helpful because you don't need to be a coding expert to make cool stuff happen in your game. They're like a simpler way to tell the game what to do.
-Level Blueprint:
+
+**Level Blueprint:**
 
 What it is: It's like a big control center for everything happening in a specific level of the game. It manages events that affect the entire level or specific objects in it.
 What it does: It helps control events across the whole level, like actions for different objects, level streaming, and setting up event triggers.
@@ -85,8 +86,8 @@ What it does: Saves time by storing and reusing common sequences of actions or n
 **Animation Blueprint:**
 
 What it is: An Animation Blueprint controls how a character or object moves and animates within the game.
-What it does: It defines how different animations blend and play out, governing the movement and appearance of characters or objects in the game.
-In essence, Blueprints in Unreal Engine are tools that simplify game development by allowing designers to create functionality and behaviors without extensive coding. The Animation Blueprint, specifically, focuses on creating and managing animations for characters or objects within the game.
+What it does: It defines how different animations play out, and displayes the movement and appearance of characters or objects in the game.
+Blueprints in Unreal Engine are tools that simplify game development by allowing designers to create functionality and behaviors without extensive coding. The Animation Blueprint, specifically, focuses on creating and managing animations for characters or objects within the game.
 
 <img width="241" alt="Screenshot 2023-10-30 070920" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/dc879ee3-306e-41a0-9674-1e6583bae7c2">
 <img width="241" alt="Screenshot 2023-10-30 070947" src="https://github.com/andrinruegg/m431_ap_23a_/assets/143380551/4ecf5b0e-0a20-4da6-af4c-75518d8a2f80">
