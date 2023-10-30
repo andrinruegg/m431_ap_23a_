@@ -30,5 +30,20 @@ Initially, I changed from third-person to first-person mode by placing a camera 
 [Here is teh fixed cammera](https://youtu.be/5IvqOMhoc84)
 
 
+|Functions tested|Do they work now|
+|---|---|
+|Running|Yes but you have infinite stamina|
+|Walking|Works perfect|
+|Crouching|Looks perfect|
+|Roll|Removed|
+|Ragdoll|Removed|
+|Footsteps|No Problems|
+|Forest Sounds|No Problems|
+|Textures|No lag|
+|Reality|The game looks real but lags a bit|
+|Shades|Laggy|
+
+
+
 
 
