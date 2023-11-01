@@ -27,7 +27,7 @@ Here you see the character T-Posing, thats how I imagine ghost flying around.
 
 - ## First-Person Mode:
 Initially, I changed from third-person to first-person mode by placing a camera in the character's head. However, at the beginning, I faced the problem of limited movement in the up-down direction. I wasn't sure how to resolve this initially, but later I discovered sockets that allow attachment of things. I connected the camera to the head socket, enabling the camera to follow the mouse's direction in all orientations, effectively solving the issue.
-[Here is teh fixed cammera](https://youtu.be/5IvqOMhoc84)
+[Here is the fixed cammera](https://youtu.be/5IvqOMhoc84)
 
 
 |Functions tested|Do they work now|
