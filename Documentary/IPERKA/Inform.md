@@ -77,7 +77,7 @@ Key Features: Selecting, transforming, and modifying objects.
 
 **Foliage Tool:**
 
-What it does: The Foliage tool enables you to populate your landscapes and scenes with vegetation, such as trees, bushes, and grass. It's essential for creating lush and natural environments. You can choose your meshes and foliages from the content browser and pull them in. After that select thh once you want o paint and then you just have to paint all over the map with a brush.
+What it does: The Foliage tool enables you to populate your landscapes and scenes with natural objects, such as trees, bushes, and grass. It's often used for creating lush and natural environments. You can choose your meshes and foliages from the content browser and pull them in. After that select thh once you want o paint and then you just have to paint all over the map with a brush.
 Key Features: Placing, adjusting density, and optimizing the rendering of foliage.
 
 **Mesh Paint Tool:**
@@ -92,8 +92,8 @@ Key Features: Rigging, keyframe animation, blend spaces, and animation blueprint
 
 **Asset Editing and Material/Texture Tool:**
 
-What it does: Unreal Engine provides a wide array of tools for editing assets, materials, and textures. These tools allow you to create, modify, and fine-tune 3D models, textures, and materials to achieve the desired look and feel for your game.
-Key Features: Material Editor, Texture Painting, UV Mapping, and 3D modeling tools for asset creation and modification.
+What it does: Unreal Engine provides a wide array of tools for editing assets, materials, and textures. These tools allow you to create and modify 3D models, textures, and materials to achieve the desired look and feel for your game.
+Key Features: Material Editor, Texture Painting and 3D modeling tools for asset creation and modification.
 
 
 
