@@ -20,7 +20,7 @@ This is an example how I planned and what what to do. (12.10-22.10)
 
 Here is a better explanation:
 
-- **12.10 - Documentation (240 min):** The primary goal for this day was to restart the documentation process. Even though I had documented once before, I encountered a significant setback as I accidentally deleted all my files due to a lack of space on my computer. This incident also made me work slowwer because I was mad of loosing all the progress I had. However, thanks to my old knowledge and notes, I could still remember what needed to be documented.
+- **12.10 - Documentation (240 min):** The primary goal for this day was to restart the documentation process. Even though I had documented once before, I encountered a huge setback as I accidentally deleted all my files due to a lack of space on my computer. This also made me work slowwer because I was mad of loosing all the progress I had. However, thanks to my old knowledge and notes, I could still remember what needed to be documented.
 
 - **13.10 - Programming (120 min):** On the 13th, the primary goal was to enhance IPERKA by potentially adding a playable character. This step improve the gameplay and user experience by alot.
 
