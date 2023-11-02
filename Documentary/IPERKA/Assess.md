@@ -1,21 +1,17 @@
 # Asses
 
-What went wrong:
-Animation Deletion: Accidentally deleting important animation files causing issues with the project's animations.
-Impact of it going wrong:
-The impact was significant, leading to strange-looking animations and possibly disrupting the project's progress.
+What Went Wrong:
+Animation: I had a problem with my animations. I accidentally removed some important parts from my animation blueprint, making my animations look strange.
 
-Issues Encountered:
-The accidental deletion of critical animation files was a significant issue. Reacting with anger and harming children is extremely inappropriate and concerning. If this was meant as a joke or not intended seriously, it's crucial to reconsider the language used in this context.
+Could It Have Been Avoided?
+Animation: Yes, I could have avoided it by being more careful and not deleting things without thinking.
 
-Prevention in the future:
-Implementing a more careful approach to file management and having proper backup systems can prevent accidental deletions. Managing emotions and reacting calmly to mistakes is essential for a productive work environment.
+Did You React Right?
+Animation: No, I got mad when I realized my mistake, and I tried correcting my mistake as fast as possible, but unfortunaly I made it even worse.
 
-Improvements:
-Planning and Time Management: Stick to a more structured plan and set achievable, realistic goals to avoid feeling demotivated.
-Time Management: Start tasks earlier to alleviate stress caused by last-minute rushes.
-Language and Communication: Improve spelling, grammar, and overall communication skills for better project documentation and presentation.
-If Starting Again:
-Given the chance to start over, implementing these improvements from the beginning would lead to a smoother project progression.
+How to Avoid Such Problems in the Future?
 
-Remember, it's crucial to maintain a professional and respectful tone, particularly when discussing errors or challenges in a project. If there are other issues or if there's any other assistance you require, feel free to ask.
+If I Could Start Again, Would I Do Something Differently?
+
+Where I can improve:
+The most important thing to improve is planning and sticking to schedules. Many times, I didn't follow my plan, whether in what I was doing or when I was doing it. Next time, I'll try to make a better plan and set smaller goals to stay motivated till the end. Also, I need to start earlier to avoid stress at the en
