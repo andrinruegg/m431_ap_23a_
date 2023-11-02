@@ -40,7 +40,7 @@ Initially, I changed from third-person to first-person mode by placing a camera 
 |Footsteps|No Problems|
 |Forest Sounds|No Problems|
 |Textures|No lag|
-|Reality|The game looks real but lags a bit|
+|Reality|The game looks realistic but lags a bit|
 |Shades|Laggy|
 |Entity Skeleton|Works Properly|
 |Colitions|All Active|
