@@ -49,3 +49,16 @@
 
 ### Where I Can Improve:
 I need to get better at planning and sticking to my schedule. Many times, I didn't follow my plan, either in what I was doing or when I was doing it. Next time, I'll make a better plan and set smaller goals to stay motivated until I finish. Starting earlier will also stop me from feeling stressed at the end of the project.
+
+This is the end of my repository. Thank you so much for reading! I hope you enjoyed it!
+
+```
+.___________. __    __       ___      .__   __.  __  ___    ____    ____  ______    __    __   __        ___  
+|           ||  |  |  |     /   \     |  \ |  | |  |/  /    \   \  /   / /  __  \  |  |  |  | |  |  _    \  \ 
+`---|  |----`|  |__|  |    /  ^  \    |   \|  | |  '  /      \   \/   / |  |  |  | |  |  |  | |  | (_)    |  |
+    |  |     |   __   |   /  /_\  \   |  . `  | |    <        \_    _/  |  |  |  | |  |  |  | |  |        |  |
+    |  |     |  |  |  |  /  _____  \  |  |\   | |  .  \         |  |    |  `--'  | |  `--'  | |__|  _     |  |
+    |__|     |__|  |__| /__/     \__\ |__| \__| |__|\__\        |__|     \______/   \______/  (__) (_)    |  |
+                                                                                                         /__/ 
+
+```
