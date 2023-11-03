@@ -4,7 +4,29 @@
 - **Animation:** I faced issues with my animations. Accidentally, I removed important parts from my animation blueprint, resulting in strange-looking animations.
 - **Time Management:** I struggled with time management and ended up in a big stress towards the end.
 - **Lag Issues:** My aim was to create a realistic horror game with high-quality graphics, but using my work laptop with outdated drivers and a poor memory card caused a lot of lag.
+```
+         .--.
+    .-._;.--.;_.-.
+   (_.'_..--.._'._)
+    /.' . 60 . '.\
+   // .      / . \\
+  |; .      /   . |;
+  ||45    ()    15||
+  |; .          . |;
+   \\ .        . //
+    \'._' 30 '_.'/
+     '-._'--'_.-'
+         `""`
 
+  _______                   __  ___                                                  __ 
+ /_  __(_)___ ___  ___     /  |/  /___ _____  ____ _____ ____  ____ ___  ___  ____  / /_
+  / / / / __ `__ \/ _ \   / /|_/ / __ `/ __ \/ __ `/ __ `/ _ \/ __ `__ \/ _ \/ __ \/ __/
+ / / / / / / / / /  __/  / /  / / /_/ / / / / /_/ / /_/ /  __/ / / / / /  __/ / / / /_  
+/_/ /_/_/ /_/ /_/\___/  /_/  /_/\__,_/_/ /_/\__,_/\__, /\___/_/ /_/ /_/\___/_/ /_/\__/  
+                                                 /____/                                 
+
+```
+  
 ### Could It Have Been Avoided?
 - **Animation:** I could have avoided this mistake by being more cautious and not deleting important elements without proper consideration.
 - **Time Management:** If I had started with more motivation from the beginning, I might have made better progress. I also underestimated the time required to complete certain tasks.
