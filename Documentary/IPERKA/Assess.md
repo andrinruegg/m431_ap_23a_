@@ -11,7 +11,10 @@ Time management: Yes if I had more motivation from the begining on, I'd probaly 
 Did You React Right? <br>
 Animation: No, I got mad when I realized my mistake, and I tried correcting my mistake as fast as possible, but unfortunaly I made it even worse.
 Time management: At the end yes, as I put alot time per day in my git repository and project.
+
 How to Avoid Such Problems in the Future?
+Animation: Trough paying attention.
+Time management: Trough starting earlier
 
 If I Could Start Again, Would I Do Something Differently? <br>
 Animation: Look out for what I am deleting.
